@@ -25,7 +25,7 @@ Problems are motivated by the ones shared at:
 
 ## Xiocrypt Naming Convention
 
-"Karen__[Category]__[Number]__[Your Name]"
+```"Karen__[Category]__[Number]__[Your Name]"```
 
 ## Table of Contents
 
