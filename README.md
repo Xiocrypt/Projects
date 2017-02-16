@@ -23,6 +23,10 @@ Problems are motivated by the ones shared at:
 * [Martyr2’s Mega Project List](http://www.dreamincode.net/forums/topic/78802-martyr2s-mega-project-ideas-list/)
 * [Rosetta Code](http://rosettacode.org/)
 
+## Xiocrypt Naming Convention
+
+"Karen__{Category}__{Number}__{Your Name}"
+
 ## Table of Contents
 
 - [Numbers](https://github.com/karan/Projects#numbers)
