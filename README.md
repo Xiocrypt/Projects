@@ -25,7 +25,7 @@ Problems are motivated by the ones shared at:
 
 ## Xiocrypt Naming Convention
 
-```Karen__{Number}__{Your Name}```
+```Karen__{Number}__{Your Name}__{Language}```
 
 ## Table of Contents
 
